@@ -66,7 +66,4 @@
 
 ---
 
-<!-- 🌌 Futuristic Glow Footer -->
-<p align="center">
-  <img src="https://i.ibb.co/vjPnV9t/neon-line.gif" width="100%" alt="Neon Line" />
-</p>
+![contrib](https://raw.githubusercontent.com/TakanashiHaryth/.github/main/contrib-animated.html)
