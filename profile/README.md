@@ -62,9 +62,9 @@
 
 ---
 
-<!-- 🐍 Contribution Snake -->
+<!-- 🔥 Replaced snake with Giphy animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TakanashiHaryth/TakanashiHaryth/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhhYno3em1qenJyNmwxZXZjeDM3YXh4b3lpZ2Y1MnZlN2FjeWUwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gE5MQBWyjwkE1xc0d6/giphy.gif" width="80%" alt="Cyber Animation"/>
 </p>
 
 <!-- 🌌 Futuristic Glow Footer -->
