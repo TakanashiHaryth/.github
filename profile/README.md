@@ -66,4 +66,8 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TakanashiHaryth&theme=tokyo-night&bg_color=0a0014&color=a855f7&line=7e22ce&point=bf46ef&area=true&hide_border=true" width="100%">
+</p>
+
 ![Contributions](https://raw.githubusercontent.com/TakanashiHaryth/.github/main/profile/contrib-animated.svg)
