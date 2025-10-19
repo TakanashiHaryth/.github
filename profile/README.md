@@ -1,8 +1,8 @@
 <!-- 🔥 Giphy animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/gE5MQBWyjwkE1xc0d6/giphy.gif" width="80%" alt="Cyber Animation"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lyNTNraW1ydHU1cXZodDdnZmp1cGs4dDlicnhpd25uazJ0MXh6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/buFhMPMwyrpvkmc0sO/giphy.gif"
+       width="80%" alt="Cyber Animation"/>
 </p>
-
 
 <!-- 🌠 Banner Section -->
 <p align="center">
