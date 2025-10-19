@@ -1,7 +1,12 @@
-<!-- 🌌 Cyberpunk / Neon Gamer GitHub Profile by TakanashiHaryth -->
+<!-- 🌌 Cyberpunk / Neon Gamer Profile by TakanashiHaryth -->
+
+<!-- 🌠 Banner Section -->
+<p align="center">
+  <img src="https://i.ibb.co/6ZzD9ct/neon-banner.gif" width="100%" alt="Cyberpunk Banner"/>
+</p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00BFFF&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+TakanashiHaryth;💻+Student+Developer;⚡+Code.+Game.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&color=00BFFF&center=true&vCenter=true&width=550&lines=👋+Hi%2C+I'm+TakanashiHaryth;💻+Student+Developer;⚡+Code.+Game.+Repeat." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,7 +17,7 @@
 
 ### 🛠️ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,sql,cpp,html,css,kotlin,typescript,json" />
+  <img src="https://skillicons.dev/icons?i=js,php,sql,cpp,html,css,kotlin,typescript,json&theme=dark" />
 </p>
 
 ---
@@ -24,9 +29,9 @@
 ---
 
 ### 🎮 Hobbies & Interests
-- 💡 Creating cool & useful projects  
-- ⚔️ Competitive gaming & coding challenges  
-- 💭 Always learning new things  
+- 💡 Building futuristic projects  
+- 🕹️ Playing immersive games  
+- ⚔️ Always challenging limits  
 
 ---
 
@@ -48,8 +53,8 @@
 ---
 
 ### 🧠 Quote
-> *"Evolve through code. Dominate through creativity."*  
-> – TakanashiHaryth ⚡
+> *“Evolve through code. Dominate through creativity.”*  
+> — ⚡ *TakanashiHaryth*
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TakanashiHaryth&color=00BFFF&style=flat-square" alt="Profile Views" />
@@ -57,6 +62,12 @@
 
 ---
 
+<!-- 🐍 Contribution Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/TakanashiHaryth/TakanashiHaryth/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<!-- 🌌 Futuristic Glow Footer -->
+<p align="center">
+  <img src="https://i.ibb.co/vjPnV9t/neon-line.gif" width="100%" alt="Neon Line" />
 </p>
