@@ -1,4 +1,8 @@
-<!-- 🌌 Cyberpunk / Neon Gamer Profile by TakanashiHaryth -->
+<!-- 🔥 Giphy animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/gE5MQBWyjwkE1xc0d6/giphy.gif" width="80%" alt="Cyber Animation"/>
+</p>
+
 
 <!-- 🌠 Banner Section -->
 <p align="center">
@@ -17,7 +21,7 @@
 
 ### 🛠️ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,sql,cpp,html,css,kotlin,typescript,json&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,php,mysql,cpp,html,css,kotlin,typescript,json&theme=dark" />
 </p>
 
 ---
@@ -61,11 +65,6 @@
 </p>
 
 ---
-
-<!-- 🔥 Giphy animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/gE5MQBWyjwkE1xc0d6/giphy.gif" width="80%" alt="Cyber Animation"/>
-</p>
 
 <!-- 🌌 Futuristic Glow Footer -->
 <p align="center">
