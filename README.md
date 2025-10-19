@@ -32,3 +32,6 @@ _A smart and efficient task management app to boost productivity!_
 > “Code, game, repeat.”  
 
 Thanks for visiting my profile! 🚀
+
+![Profile views](https://komarev.com/ghpvc/?username=TakanashiHaryth)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakanashiHaryth&layout=compact)
