@@ -66,4 +66,4 @@
 
 ---
 
-![contrib](https://raw.githubusercontent.com/TakanashiHaryth/.github/main/contrib-animated.html)
+![Contributions](https://raw.githubusercontent.com/TakanashiHaryth/.github/main/profile/contrib-animated.svg)
