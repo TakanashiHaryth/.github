@@ -27,8 +27,8 @@
 ---
 
 ### 🚀 Featured Project
-🎯 **[Task Reminder](https://github.com/TakanashiHaryth/Task-Wise-app)**  
-> _A smart and efficient task management app to boost productivity!_
+🎯 **[MyCampus](https://github.com/TakanashiHaryth/MyCampus)**  
+> _(A real-time campus companion app that updates schedules, notes, assignments, notifications, and events instantly to keep students organized and connected.)_
 
 ---
 
