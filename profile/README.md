@@ -4,11 +4,6 @@
        width="80%" alt="Cyber Animation"/>
 </p>
 
-<!-- 🌠 Banner Section -->
-<p align="center">
-  <img src="https://i.ibb.co/6ZzD9ct/neon-banner.gif" width="100%" alt="Cyberpunk Banner"/>
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&color=00BFFF&center=true&vCenter=true&width=550&lines=👋+Hi%2C+I'm+TakanashiHaryth;💻+Student+Developer;⚡+Code.+Game.+Repeat." alt="Typing SVG" />
 </h1>
@@ -28,7 +23,7 @@
 
 ### 🚀 Featured Project
 🎯 **[MyCampus](https://github.com/TakanashiHaryth/MyCampus)**  
-> _(A real-time campus companion app that updates schedules, notes, assignments, notifications, and events instantly to keep students organized and connected.)_
+> _A real-time campus companion app that updates schedules, notes, assignments, notifications, and events instantly to keep students organized and connected._
 
 ---
 
