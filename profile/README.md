@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <b>🎮 Gamer&nbsp;&nbsp;|&nbsp;&nbsp;💻 Developer&nbsp;&nbsp;|&nbsp;&nbsp;🚀 Tech Enthusiast</b>
+  <b>🎮 Gamer&nbsp;&nbsp;|&nbsp;&nbsp;💻 Developer&nbsp;&nbsp;|&nbsp;&nbsp;📺 Anime Lovers</b>
 </p>
 
 ---
