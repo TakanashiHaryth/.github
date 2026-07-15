@@ -1,6 +1,6 @@
 <!-- 🔥 Giphy animation -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemQ3ZW1namxnNHp4ZGtmbXp4NHBnNnVyY3R4OHNndGgyMjVtMnl1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/riAnEhoDPDs9gwZ6bm/giphy.gif"
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d0OXRqMThnOHNrMzRpeGRkMDk2ZGhlbHBuYmhjMmttcDBhNGp6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kCbaA93DijFagMz8p2/giphy.gif"
        width="80%" alt="Cyber Animation"/>
 </p>
 
