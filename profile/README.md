@@ -1,7 +1,6 @@
 <!-- 🔥 Giphy animation -->
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d0OXRqMThnOHNrMzRpeGRkMDk2ZGhlbHBuYmhjMmttcDBhNGp6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kCbaA93DijFagMz8p2/giphy.gif"
-       width="80%" alt="Cyber Animation"/>
 </p>
 
 <h1 align="center">
