@@ -1,6 +1,6 @@
 <!-- 🔥 Giphy animation -->
 <p align="center">
-  <img src="https://tenor.com/byN1b9HKNHE.gif"
+  <img src="https://media.tenor.com/EEbyku4nU8gAAAAi/rimuru-spin.gif"
 </p>
 
 <h1 align="center">
