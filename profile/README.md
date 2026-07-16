@@ -3,9 +3,9 @@
     <li>
     <b>Name:</b> TakaHaryth</li>
     <li>
-    <b>Gender:</b> Male </li>
+    <b>Gender:</b> Male</li>
     <li>
-    <b>Hobby:</b> Anime, Game, Reading </li>
+    <b>Hobby:</b> Anime, Game, Reading</li>
 </div>
 <br><br><br><br>
 <h1 align="center">
