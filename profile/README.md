@@ -1,9 +1,7 @@
 <div>
-  <p align="left">
-    <img src="https://media.tenor.com/EEbyku4nU8gAAAAi/rimuru-spin.gif" alt="Rimuru Spin"/>
+    <img src="https://media.tenor.com/EEbyku4nU8gAAAAi/rimuru-spin.gif" alt="Rimuru Spin" align="left"/>
     <br>
     <b>Name:</b> Harith
-  </p>
 </div>
 
 <h1 align="center">
