@@ -1,9 +1,8 @@
 <div>
     <img src="https://media.tenor.com/EEbyku4nU8gAAAAi/rimuru-spin.gif" alt="Rimuru Spin" align="left"/>
-    <br>
     <b>Name:</b> Harith
 </div>
-
+<br><br><br><br>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&color=00BFFF&center=true&vCenter=true&width=550&lines=%F0%9F%91%8B+Hi%2C+I'm+TakaHaryth;%F0%9F%92%BB+Student+Developer;%E2%9A%A1+Code.+Game.+Repeat." alt="Typing SVG" />
 </h1>
