@@ -1,19 +1,19 @@
 <div>
   <p align="left">
-    <img src="https://media.tenor.com/EEbyku4nU8gAAAAi/rimuru-spin.gif"
-      <li>
-        <b>Name:</b> Harith</li>
-      </li>
+    <img src="https://media.tenor.com/EEbyku4nU8gAAAAi/rimuru-spin.gif" width="50" alt="Rimuru Spin" />
+    <br>
+    <b>Name:</b> Harith
   </p>
 </div>
 
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&color=00BFFF&center=true&vCenter=true&width=550&lines=👋    +Hi%2C+I'm+TakaHaryth;💻+Student+Developer;⚡+Code.+Game.+Repeat." alt="Typing SVG" />
-  </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&color=00BFFF&center=true&vCenter=true&width=550&lines=%F0%9F%91%8B+Hi%2C+I'm+TakaHaryth;%F0%9F%92%BB+Student+Developer;%E2%9A%A1+Code.+Game.+Repeat." alt="Typing SVG" />
+</h1>
 
-  <p align="center">
-    <b>🎮 Gamer&nbsp;&nbsp;|&nbsp;&nbsp;💻 Developer&nbsp;&nbsp;|&nbsp;&nbsp;📺 Anime Lovers</b>
-  </p>
+<p align="center">
+  <b>🎮 Gamer&nbsp;&nbsp;|&nbsp;&nbsp;💻 Developer&nbsp;&nbsp;|&nbsp;&nbsp;📺 Anime Lover</b>
+</p>
+
 ---
 
 ### 🛠️ Tech Arsenal
@@ -25,7 +25,7 @@
 
 ### 🚀 Featured Project
 🎯 **[MyCampus](https://github.com/TakanashiHaryth/MyCampus)**  
-> _A real-time campus companion app that updates schedules, notes, assignments, notifications, and events instantly to keep students organized and connected._
+> *A real-time campus companion app that updates schedules, notes, assignments, notifications, and events instantly to keep students organized and connected.*
 
 ---
 
@@ -38,18 +38,18 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.tiktok.com/@sorahyura_"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="https://guns.lol/hyuratempest"><img src="https://img.shields.io/badge/Guns.lol-7F00FF?style=for-the-badge&logo=matrix&logoColor=white" /></a>
-  <a href="https://discord.com/users/haryth_1957"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://x.com/Focalors06"><img src="https://img.shields.io/twitter/url?style=for-the-badge"
+  <a href="https://www.tiktok.com/@sorahyura_" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://guns.lol/hyuratempest" target="_blank"><img src="https://img.shields.io/badge/Guns.lol-7F00FF?style=for-the-badge&logo=matrix&logoColor=white" alt="Guns.lol" /></a>
+  <a href="https://discord.com/users/haryth_1957" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://x.com/Focalors06" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 ---
 
 ### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TakanashiHaryth&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakanashiHaryth&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TakanashiHaryth&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakanashiHaryth&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 ---
@@ -65,7 +65,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TakanashiHaryth&theme=tokyo-night&bg_color=0a0014&color=a855f7&line=7e22ce&point=bf46ef&area=true&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TakanashiHaryth&theme=tokyo-night&bg_color=0a0014&color=a855f7&line=7e22ce&point=bf46ef&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
-![Contributions](https://raw.githubusercontent.com/TakanashiHaryth/.github/main/profile/contrib-animated.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TakanashiHaryth/.github/main/profile/contrib-animated.svg" alt="Contributions" />
+</p>
