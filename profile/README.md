@@ -1,8 +1,11 @@
 <div>
     <img src="https://media.tenor.com/EEbyku4nU8gAAAAi/rimuru-spin.gif" alt="Rimuru Spin" align="left"/>
-    <b>Name:</b> TakaHaryth
-    <b>Gender:</b> Male
-    <b>Hobby:</b> Anime, Game, Reading
+    <li>
+    <b>Name:</b> TakaHaryth </li>
+    <li>
+    <b>Gender:</b> Male </li>
+    <li>
+    <b>Hobby:</b> Anime, Game, Reading </li>
 </div>
 <br><br><br><br>
 <h1 align="center">
