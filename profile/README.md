@@ -1,6 +1,6 @@
 <div>
   <p align="left">
-    <img src="https://media.tenor.com/EEbyku4nU8gAAAAi/rimuru-spin.gif" width="50" alt="Rimuru Spin" />
+    <img src="https://media.tenor.com/EEbyku4nU8gAAAAi/rimuru-spin.gif" alt="Rimuru Spin"/>
     <br>
     <b>Name:</b> Harith
   </p>
