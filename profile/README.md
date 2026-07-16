@@ -39,7 +39,7 @@
   <a href="https://www.tiktok.com/@sorahyura_"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="https://guns.lol/hyuratempest"><img src="https://img.shields.io/badge/Guns.lol-7F00FF?style=for-the-badge&logo=matrix&logoColor=white" /></a>
   <a href="https://discord.com/users/haryth_1957"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://x.com/Focalors06"><img src="https://img.shields.io/twitter/follow/:haryth"
+  <a href="https://x.com/Focalors06"><img src="https://img.shields.io/twitter/url"
 
 </p>
 
