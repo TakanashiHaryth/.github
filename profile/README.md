@@ -1,7 +1,7 @@
 <div>
     <img src="https://media.tenor.com/EEbyku4nU8gAAAAi/rimuru-spin.gif" alt="Rimuru Spin" align="left"/>
     <li>
-    <b>Name:</b> TakaHaryth </li>
+    <b>Name:</b> TakaHaryth</li>
     <li>
     <b>Gender:</b> Male </li>
     <li>
