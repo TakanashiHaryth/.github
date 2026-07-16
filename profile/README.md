@@ -1,10 +1,10 @@
 <!-- 🔥 Giphy animation -->
-<p align="center">
+<p align="left">
   <img src="https://media.tenor.com/EEbyku4nU8gAAAAi/rimuru-spin.gif"
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&color=00BFFF&center=true&vCenter=true&width=550&lines=👋+Hi%2C+I'm+TakanashiHaryth;💻+Student+Developer;⚡+Code.+Game.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&color=00BFFF&center=true&vCenter=true&width=550&lines=👋+Hi%2C+I'm+TakaHaryth;💻+Student+Developer;⚡+Code.+Game.+Repeat." alt="Typing SVG" />
 </h1>
 
 <p align="center">
