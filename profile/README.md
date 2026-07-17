@@ -31,7 +31,7 @@
 
 ### 🚀 Featured Project
 🎯 **[MyCampus](https://github.com/TakanashiHaryth/MyCampus)**  
-> *A real-time campus companion app that updates schedules, notes, assignments, notifications, and events instantly to keep students organized and connected.*
+> *A real-time campus companion app that updates schedules, notes, assignments, notifications, and events instantly to keep students organized and connected.* <br>
  **[Manas - Ciel](https://github.com/TakanashiHaryth/MyCampus)**  
 > *An AI Agent designed to assist users in organizing tasks, summarizing information, scheduling appointments, sending emails, and facilitating local chat on their mobile devices or personal computers.*
 
