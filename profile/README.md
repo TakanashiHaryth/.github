@@ -6,6 +6,10 @@
     <b>Gender:</b> Male</li>
     <li>
     <b>Hobby:</b> Anime, Game, Reading</li>
+    <li>
+    <b>Fav Game:</b> HSR, MLBB, Genshin</li>
+    <li>
+    <b>Hobby:</b> Skyfall, D/N/A, Tetoris</li>
 </div>
 <br><br><br><br>
 <h1 align="center">
@@ -28,6 +32,8 @@
 ### 🚀 Featured Project
 🎯 **[MyCampus](https://github.com/TakanashiHaryth/MyCampus)**  
 > *A real-time campus companion app that updates schedules, notes, assignments, notifications, and events instantly to keep students organized and connected.*
+ **[Manas - Ciel](https://github.com/TakanashiHaryth/MyCampus)**  
+> *An AI Agent designed to assist users in organizing tasks, summarizing information, scheduling appointments, sending emails, and facilitating local chat on their mobile devices or personal computers.*
 
 ---
 
