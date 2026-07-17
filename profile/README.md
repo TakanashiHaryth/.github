@@ -1,19 +1,18 @@
-<div>
-    <img src="https://media.tenor.com/EEbyku4nU8gAAAAi/rimuru-spin.gif" alt="Rimuru Spin" align="left"/>
-    <img src="https://media1.tenor.com/m/ajHV0O5APUMAAAAC/rimuru-rimuru-tempest.gif" width="300" alt="Rimuru spin" align="center"/>
-    <img src="https://media1.tenor.com/m/T6cnb8csQAMAAAAC/%E3%81%A1%E3%82%87%E3%81%93%E3%81%88%E3%81%84-chocoeiru.gif" width="300" alt="Rimuru spin" align="right"/>
-    <li>
-    <b>Name:</b> TakaHaryth</li>
-    <li>
-    <b>Gender:</b> Male</li>
-    <li>
-    <b>Hobby:</b> Anime, Game, Reading</li>
-    <li>
-    <b>Fav Game:</b> HSR, MLBB, Genshin</li>
-    <li>
-    <b>Fav Song:</b> Skyfall, D/N/A, Tetoris</li>
-</div>
-<br><br><br><br>
+<p align="center">
+  <img src="https://media.tenor.com/EEbyku4nU8gAAAAi/rimuru-spin.gif" width="260" alt="Rimuru Spin"/>
+  <img src="https://media1.tenor.com/m/ajHV0O5APUMAAAAC/rimuru-rimuru-tempest.gif" width="260" alt="Rimuru Tempest"/>
+  <img src="https://media1.tenor.com/m/T6cnb8csQAMAAAAC/%E3%81%A1%E3%82%87%E3%81%93%E3%81%88%E3%81%84-chocoeiru.gif" width="260" alt="Chocoeiru"/>
+</p>
+
+### 👤 About Me
+- **Name:** TakaHaryth
+- **Gender:** Male
+- **Hobby:** Anime, Game, Reading
+- **Fav Game:** HSR, MLBB, Genshin
+- **Fav Song:** Skyfall, D/N/A, Tetoris
+
+<br>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&color=00BFFF&center=true&vCenter=true&width=550&lines=%F0%9F%91%8B+Hi%2C+I'm+TakaHaryth;%F0%9F%92%BB+Student+Developer;%E2%9A%A1+Code.+Game.+Repeat." alt="Typing SVG" />
 </h1>
@@ -26,15 +25,16 @@
 
 ### 🛠️ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,mysql,cpp,html,css,kotlin,typescript,json&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,php,mysql,cpp,html,css,kotlin,typescript,json&theme=dark" alt="Tech Skills" />
 </p>
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 🎯 **[MyCampus](https://github.com/TakanashiHaryth/MyCampus)**  
-> *A real-time campus companion app that updates schedules, notes, assignments, notifications, and events instantly to keep students organized and connected.* <br>
- **[Manas - Ciel](https://github.com/TakanashiHaryth/MyCampus)**  
+> *A real-time campus companion app that updates schedules, notes, assignments, notifications, and events instantly to keep students organized and connected.*  
+
+🤖 **[Manas - Ciel](https://github.com/TakanashiHaryth/Manas-Ciel)**  
 > *An AI Agent designed to assist users in organizing tasks, summarizing information, scheduling appointments, sending emails, and facilitating local chat on their mobile devices or personal computers.*
 
 ---
