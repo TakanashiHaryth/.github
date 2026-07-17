@@ -9,7 +9,7 @@
     <li>
     <b>Fav Game:</b> HSR, MLBB, Genshin</li>
     <li>
-    <b>Hobby:</b> Skyfall, D/N/A, Tetoris</li>
+    <b>Fav Song:</b> Skyfall, D/N/A, Tetoris</li>
 </div>
 <br><br><br><br>
 <h1 align="center">
