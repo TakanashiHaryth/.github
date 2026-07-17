@@ -1,5 +1,7 @@
 <div>
     <img src="https://media.tenor.com/EEbyku4nU8gAAAAi/rimuru-spin.gif" alt="Rimuru Spin" align="left"/>
+    <img src="https://media1.tenor.com/m/ajHV0O5APUMAAAAC/rimuru-rimuru-tempest.gif" alt="Rimuru laugh" align="center"/>
+    <img src="https://media1.tenor.com/m/T6cnb8csQAMAAAAC/%E3%81%A1%E3%82%87%E3%81%93%E3%81%88%E3%81%84-chocoeiru.gif" alt="Rimuru smile" align="right"/>
     <li>
     <b>Name:</b> TakaHaryth</li>
     <li>
