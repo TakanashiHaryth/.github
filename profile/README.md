@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Tech Arsenaljawbdibwiydgiuabwu9
+### 🛠️ Tech Arsenal
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,php,mysql,cpp,html,css,kotlin,typescript,json&theme=dark" alt="Tech Skills" />
 </p>
