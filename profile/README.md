@@ -65,7 +65,7 @@
 ---
 
 ### 🧠 Quote
-> *“Evolve through code. Dominate through creativity.”*  
+> *“Life is like a GitHub repository, No progress happens until you make a commit.”*  
 > — ⚡ *TakanashiHaryth*
 
 <p align="center">
