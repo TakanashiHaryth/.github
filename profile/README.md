@@ -26,8 +26,8 @@
 ## 👤 About Me
 
 ```yaml
-name: TakaHaryth
-role: Student Developer
+name: Muhammad Harith Irfan
+role: Junior Student Developer
 location: Malaysia
 focus:
   - Full-Stack Development
