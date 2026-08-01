@@ -272,19 +272,19 @@ A collection of future experiments involving:
 
 <div align="center">
 
-<a href="https://www.tiktok.com/@sorahyura_" target="_blank">
+<a href="https://www.tiktok.com/@takaharyth06" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
 </a>
 
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+<a href="https://www.instagram.com/rimurukawaii06" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/harith-irfan" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:mdharithirfan@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
