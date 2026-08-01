@@ -280,7 +280,7 @@ A collection of future experiments involving:
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<a href="https://www.linkedin.com/in/harith-irfan" target="_blank">
+<a href="https://www.linkedin.com/in/harith-irfan-rimuru-199267411" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
