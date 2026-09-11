@@ -157,9 +157,9 @@ A real-time campus companion application designed to help students manage their 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Manas — Ciel
+### 🧠 Mizuki AI Agent
 
-An AI agent designed to help users organize tasks and interact with digital services through a single intelligent assistant.
+The personal AI agent hold natural conversations, remember each user separately, speak and listen, schedule background tasks, and carry out approved actions on a Windows computer.
 
 **Planned capabilities:**
 
@@ -171,7 +171,7 @@ An AI agent designed to help users organize tasks and interact with digital serv
 * Mobile and desktop support
 
 **Repository:**
-[github.com/TakanashiHaryth/Manas-Ciel](https://github.com/TakanashiHaryth/Manas-Ciel)
+[github.com/TakanashiHaryth/Manas-Ciel](https://github.com/TakanashiHaryth/Mizuki-AI-Agent)
 
 </td>
 </tr>
